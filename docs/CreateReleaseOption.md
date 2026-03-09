@@ -1,0 +1,20 @@
+
+
+# CreateReleaseOption
+
+CreateReleaseOption options when creating a release
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**body** | **String** |  |  [optional] |
+|**draft** | **Boolean** |  |  [optional] |
+|**hideArchiveLinks** | **Boolean** |  |  [optional] |
+|**name** | **String** |  |  [optional] |
+|**prerelease** | **Boolean** |  |  [optional] |
+|**tagName** | **String** |  |  |
+|**targetCommitish** | **String** |  |  [optional] |
+
+
+
