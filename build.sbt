@@ -2,7 +2,7 @@ lazy val root = (project in file(".")).
   settings(
     organization := "dev.smithy-ai",
     name := "forgejo-client",
-    version := "14.0.2-24-ea4f733de8+gitea-1.22.0",
+    version := "14.0.3+gitea-1.22.0",
     scalaVersion := "2.11.12",
     scalacOptions ++= Seq("-feature"),
     compile / javacOptions ++= Seq("-Xlint:deprecation"),
